@@ -1,0 +1,25 @@
+# Build & compiled outputs
+*.class
+*.jar
+*.war
+*.ear
+bin/
+out/
+target/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor files
+.idea/
+*.iml
+.vscode/
+*.swp
+*~
+
+# Temporary & backup
+*.tmp
+*.bak
+scratch/
